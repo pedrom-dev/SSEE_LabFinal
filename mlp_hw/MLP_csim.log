@@ -1,0 +1,21 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch CLANG as the compiler.
+   Compiling ../../../../Desktop/SSEE_Final_Project/mlp_hw/test/testbench_function.cpp in debug mode
+   Compiling ../../../../Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp in debug mode
+   Generating csim.exe
+[Test 0]: Label: 7 - Returned: 7
+[Test 1]: Label: 2 - Returned: 2
+[Test 2]: Label: 1 - Returned: 1
+[Test 3]: Label: 0 - Returned: 0
+[Test 4]: Label: 4 - Returned: 4
+[Test 5]: Label: 1 - Returned: 1
+[Test 6]: Label: 4 - Returned: 4
+[Test 7]: Label: 9 - Returned: 9
+[Test 8]: Label: 5 - Returned: 5
+[Test 9]: Label: 9 - Returned: 9
+
+ACIERTOS: 10/10 
+
+INFO [HLS SIM]: The maximum depth reached by any hls::stream() instance in the design is 784
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

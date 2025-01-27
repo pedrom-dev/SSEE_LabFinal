@@ -1,0 +1,1589 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:00; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:01; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:05; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:04; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:03; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:00; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:01; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:03; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:04; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:05; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:01; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:02; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch CLANG as the compiler.
+INFO: [HLS 200-2036] Building debug C Simulation binaries
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-2161] Finished Command csim_design Elapsed time: 00:00:04; Allocated memory: 0.000 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0.07 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.08 seconds; current allocated memory: 304.871 MB.
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/bias.c' ... 
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/coef.c' ... 
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 4.65 seconds. CPU system time: 1.88 seconds. Elapsed time: 6.92 seconds; current allocated memory: 306.328 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 200-1995] There were 670 instructions in the design after the 'Compile/Link' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 279 instructions in the design after the 'Unroll/Inline (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 235 instructions in the design after the 'Unroll/Inline (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 200 instructions in the design after the 'Unroll/Inline (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Unroll/Inline (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 240 instructions in the design after the 'Array/Struct (step 5)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 242 instructions in the design after the 'Performance (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 608 instructions in the design after the 'Performance (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 4,794 instructions in the design after the 'Performance (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 697 instructions in the design after the 'Performance (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 675 instructions in the design after the 'HW Transforms (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 705 instructions in the design after the 'HW Transforms (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_87_3' is marked as complete unroll implied by the pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:87:21)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_87_3' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:87:21) in function 'MLP' completely with a factor of 1 (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_hidden1(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:32:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_hidden2(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:45:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_output(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:58:0)
+INFO: [HLS 214-178] Inlining function 'layer_hidden1(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'layer_hidden2(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'layer_output(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'get_most_probable(float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L2> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:36:6 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L1> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:46:5 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L2> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:62:6 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< VITIS_LOOP_98_4> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:98:19 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< VITIS_LOOP_23_1> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:23:19 
+INFO: [HLS 214-291] Loop 'L2' is marked as complete unroll implied by the pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:49:6)
+INFO: [HLS 214-186] Unrolling loop 'L2' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:49:6) in function 'MLP' completely with a factor of 64 (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-270] Inferring pragma 'array_partition type=complete dim=2' for array 'WeightHidden2' due to pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/coef.c:12480:0)
+INFO: [HLS 214-270] Inferring pragma 'array_partition type=complete dim=1' for array 'l_hidden1_outputs' due to pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:78:8)
+INFO: [HLS 214-248] Applying array_partition to 'WeightHidden2': Complete partitioning on dimension 2. (Desktop/SSEE_Final_Project/mlp_hw/src/coef.c:12480:0)
+INFO: [HLS 214-248] Applying array_partition to 'l_hidden1_outputs': Complete partitioning on dimension 1. (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:78:8)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 2.51 seconds. CPU system time: 0.47 seconds. Elapsed time: 7.36 seconds; current allocated memory: 316.766 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.01 seconds; current allocated memory: 316.766 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0.1 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.16 seconds; current allocated memory: 330.734 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0.06 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 331.867 MB.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0.22 seconds. CPU system time: 0 seconds. Elapsed time: 0.22 seconds; current allocated memory: 356.617 MB.
+INFO: [HLS 200-2061] Successfully converted nested loops 'VITIS_LOOP_82_1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:82:19) and 'VITIS_LOOP_83_2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:83:20) in function 'MLP' into perfectly nested loops.
+INFO: [HLS 200-2061] Successfully converted nested loops 'L1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33:5) and 'L2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:36:6) in function 'MLP' into perfectly nested loops.
+INFO: [HLS 200-2061] Successfully converted nested loops 'L1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59:5) and 'L2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:62:6) in function 'MLP' into perfectly nested loops.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_82_1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:82:19) in function 'MLP'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33:5) in function 'MLP'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59:5) in function 'MLP'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 2.14 seconds. CPU system time: 0.07 seconds. Elapsed time: 2.23 seconds; current allocated memory: 510.207 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'MLP' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_82_1_VITIS_LOOP_83_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 1, Depth = 1, loop 'VITIS_LOOP_82_1_VITIS_LOOP_83_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.71 seconds. CPU system time: 0.03 seconds. Elapsed time: 0.77 seconds; current allocated memory: 510.207 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 510.207 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1_L2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [HLS 200-486] Changing DSP latency (root=add_ln37) to 3 in order to utilize available DSP registers.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 58, loop 'L1_L2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 21.03 seconds. CPU system time: 0.37 seconds. Elapsed time: 21.48 seconds; current allocated memory: 829.004 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.58 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.6 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 369, loop 'L1'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.53 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.55 seconds; current allocated memory: 829.004 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.11 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.12 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1_L21' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 54, loop 'L1_L2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.1 seconds. CPU system time: 0 seconds. Elapsed time: 0.1 seconds; current allocated memory: 829.004 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_98_4' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_98_4'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 2, loop 'VITIS_LOOP_98_4'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.03 seconds. CPU system time: 0 seconds. Elapsed time: 0.03 seconds; current allocated memory: 829.004 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.02 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_23_1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_23_1'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_VITIS_LOOP_23_1' (loop 'VITIS_LOOP_23_1'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('result_write_ln21', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118) of variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:24->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118 on local variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118 and 'load' operation 32 bit ('result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:23->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118) on local variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 2, Depth = 4, loop 'VITIS_LOOP_23_1'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.03 seconds. CPU system time: 0 seconds. Elapsed time: 0.03 seconds; current allocated memory: 829.004 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.02 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.01 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.07 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 829.004 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.03 seconds. CPU system time: 0 seconds. Elapsed time: 0.04 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.06 seconds. CPU system time: 0 seconds. Elapsed time: 0.06 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1_L2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1_L2' pipeline 'L1_L2' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mac_muladd_10ns_7ns_10ns_16_4_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1_L2'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L2_WeightHidden1_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L2_BiasesHidden1_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.92 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.94 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1' pipeline 'L1' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-104] Estimated max fanout for 'MLP_Pipeline_L1' is 28173 from HDL expression: (1'b0 == ap_block_pp0_stage0_11001)
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 65 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 64 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_0_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_1_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_2_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_3_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_4_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_5_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_6_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_7_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_8_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_9_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_10_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_11_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_12_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_13_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_14_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_15_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_16_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_17_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_18_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_19_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_20_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_21_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_22_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_23_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_24_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_25_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_26_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_27_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_28_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_29_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_30_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_31_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_32_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_33_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_34_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_35_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_36_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_37_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_38_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_39_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_40_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_41_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_42_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_43_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_44_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_45_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_46_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_47_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_48_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_49_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_50_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_51_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_52_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_53_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_54_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_55_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_56_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_57_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_58_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_59_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_60_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_61_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_62_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_63_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_BiasesHidden2_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1.78 seconds. CPU system time: 0.06 seconds. Elapsed time: 1.86 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1_L21' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1_L21' pipeline 'L1_L2' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1_L21'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L21_WeightOut_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L21_BiasesOut_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.36 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.38 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_98_4' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_VITIS_LOOP_98_4' pipeline 'VITIS_LOOP_98_4' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_98_4'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.06 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_23_1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_VITIS_LOOP_23_1' pipeline 'VITIS_LOOP_23_1' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'fcmp_32ns_32ns_1_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_23_1'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.04 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.06 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'MLP' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP'.
+INFO: [RTMG 210-278] Implementing memory 'MLP_image_pixels_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [RTMG 210-278] Implementing memory 'MLP_l_hidden2_outputs_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [RTMG 210-278] Implementing memory 'MLP_l_out_outputs_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.14 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.17 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 0.31 seconds. CPU system time: 0.04 seconds. Elapsed time: 0.36 seconds; current allocated memory: 829.004 MB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 0.66 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.7 seconds; current allocated memory: 829.004 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for MLP.
+INFO: [VLOG 209-307] Generating Verilog RTL for MLP.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 137.21 MHz
+INFO: [HLS 200-2161] Finished Command csynth_design Elapsed time: 00:00:45; Allocated memory: 524.133 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_cosim -tool=xsim
+INFO: [HLS 200-1464] Running solution command: config_export -flow=syn
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1464] Running solution command: config_export -vivado_clock=10
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_cosim -tool xsim 
+INFO: [HLS 200-1510] Running: config_export -flow syn -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl -rtl verilog -vivado_clock 10 
+INFO: [HLS 200-1510] Running: source ./mlp_accel/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name MLP MLP 
+WARNING: [HLS 200-484] The 'set_directive_top -name' command is deprecated and will be removed in a future release.
+WARNING: [HLS 200-484] The 'set_directive_top -location' command is deprecated and will be removed in a future release.
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [IMPL 213-8] Starting RTL evaluation using Vivado ...
+ERROR: [HLS 200-478] vivado returned an error 
+INFO: [HLS 200-2161] Finished Command export_design Elapsed time: 00:02:46; Allocated memory: 8.535 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_cosim -tool=xsim
+INFO: [HLS 200-1464] Running solution command: config_export -flow=syn
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1464] Running solution command: config_export -vivado_clock=10
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_cosim -tool xsim 
+INFO: [HLS 200-1510] Running: config_export -flow syn -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl -rtl verilog -vivado_clock 10 
+INFO: [HLS 200-1510] Running: source ./mlp_accel/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name MLP MLP 
+WARNING: [HLS 200-484] The 'set_directive_top -name' command is deprecated and will be removed in a future release.
+WARNING: [HLS 200-484] The 'set_directive_top -location' command is deprecated and will be removed in a future release.
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [IMPL 213-8] Starting RTL evaluation using Vivado ...
+ERROR: [HLS 200-478] vivado returned an error 
+INFO: [HLS 200-2161] Finished Command export_design Elapsed time: 00:06:18; Allocated memory: 8.387 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_cosim -tool=xsim
+INFO: [HLS 200-1464] Running solution command: config_export -flow=syn
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1464] Running solution command: config_export -vivado_clock=10
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_cosim -tool xsim 
+INFO: [HLS 200-1510] Running: config_export -flow syn -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl -rtl verilog -vivado_clock 10 
+INFO: [HLS 200-1510] Running: source ./mlp_accel/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name MLP MLP 
+WARNING: [HLS 200-484] The 'set_directive_top -name' command is deprecated and will be removed in a future release.
+WARNING: [HLS 200-484] The 'set_directive_top -location' command is deprecated and will be removed in a future release.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0.07 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.08 seconds; current allocated memory: 305.234 MB.
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/bias.c' ... 
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/coef.c' ... 
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 4.49 seconds. CPU system time: 1.6 seconds. Elapsed time: 6.35 seconds; current allocated memory: 307.031 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 200-1995] There were 670 instructions in the design after the 'Compile/Link' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 279 instructions in the design after the 'Unroll/Inline (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 235 instructions in the design after the 'Unroll/Inline (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 200 instructions in the design after the 'Unroll/Inline (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Unroll/Inline (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 240 instructions in the design after the 'Array/Struct (step 5)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 242 instructions in the design after the 'Performance (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 608 instructions in the design after the 'Performance (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 4,794 instructions in the design after the 'Performance (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 697 instructions in the design after the 'Performance (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 675 instructions in the design after the 'HW Transforms (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 705 instructions in the design after the 'HW Transforms (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_87_3' is marked as complete unroll implied by the pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:87:21)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_87_3' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:87:21) in function 'MLP' completely with a factor of 1 (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_hidden1(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:32:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_hidden2(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:45:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_output(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:58:0)
+INFO: [HLS 214-178] Inlining function 'layer_hidden1(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'layer_hidden2(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'layer_output(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'get_most_probable(float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L2> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:36:6 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L1> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:46:5 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L2> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:62:6 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< VITIS_LOOP_98_4> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:98:19 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< VITIS_LOOP_23_1> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:23:19 
+INFO: [HLS 214-291] Loop 'L2' is marked as complete unroll implied by the pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:49:6)
+INFO: [HLS 214-186] Unrolling loop 'L2' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:49:6) in function 'MLP' completely with a factor of 64 (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-270] Inferring pragma 'array_partition type=complete dim=2' for array 'WeightHidden2' due to pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/coef.c:12480:0)
+INFO: [HLS 214-270] Inferring pragma 'array_partition type=complete dim=1' for array 'l_hidden1_outputs' due to pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:78:8)
+INFO: [HLS 214-248] Applying array_partition to 'WeightHidden2': Complete partitioning on dimension 2. (Desktop/SSEE_Final_Project/mlp_hw/src/coef.c:12480:0)
+INFO: [HLS 214-248] Applying array_partition to 'l_hidden1_outputs': Complete partitioning on dimension 1. (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:78:8)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 2.89 seconds. CPU system time: 0.53 seconds. Elapsed time: 7.78 seconds; current allocated memory: 317.574 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0 seconds; current allocated memory: 317.574 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0.13 seconds. CPU system time: 0.03 seconds. Elapsed time: 0.2 seconds; current allocated memory: 331.527 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0.07 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.09 seconds; current allocated memory: 332.660 MB.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0.22 seconds. CPU system time: 0.07 seconds. Elapsed time: 0.28 seconds; current allocated memory: 357.434 MB.
+INFO: [HLS 200-2061] Successfully converted nested loops 'VITIS_LOOP_82_1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:82:19) and 'VITIS_LOOP_83_2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:83:20) in function 'MLP' into perfectly nested loops.
+INFO: [HLS 200-2061] Successfully converted nested loops 'L1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33:5) and 'L2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:36:6) in function 'MLP' into perfectly nested loops.
+INFO: [HLS 200-2061] Successfully converted nested loops 'L1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59:5) and 'L2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:62:6) in function 'MLP' into perfectly nested loops.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_82_1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:82:19) in function 'MLP'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33:5) in function 'MLP'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59:5) in function 'MLP'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 2.08 seconds. CPU system time: 0.14 seconds. Elapsed time: 2.24 seconds; current allocated memory: 511.016 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'MLP' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_82_1_VITIS_LOOP_83_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 1, Depth = 1, loop 'VITIS_LOOP_82_1_VITIS_LOOP_83_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.76 seconds. CPU system time: 0.04 seconds. Elapsed time: 0.82 seconds; current allocated memory: 511.016 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.02 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 511.016 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1_L2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [HLS 200-486] Changing DSP latency (root=add_ln37) to 3 in order to utilize available DSP registers.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 58, loop 'L1_L2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 22.93 seconds. CPU system time: 0.33 seconds. Elapsed time: 23.26 seconds; current allocated memory: 829.840 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.59 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.6 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 369, loop 'L1'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.62 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.63 seconds; current allocated memory: 829.840 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.11 seconds. CPU system time: 0 seconds. Elapsed time: 0.11 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1_L21' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 54, loop 'L1_L2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.1 seconds. CPU system time: 0 seconds. Elapsed time: 0.1 seconds; current allocated memory: 829.840 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.02 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_98_4' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_98_4'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 2, loop 'VITIS_LOOP_98_4'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.03 seconds. CPU system time: 0 seconds. Elapsed time: 0.04 seconds; current allocated memory: 829.840 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.01 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_23_1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_23_1'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_VITIS_LOOP_23_1' (loop 'VITIS_LOOP_23_1'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('result_write_ln21', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118) of variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:24->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118 on local variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118 and 'load' operation 32 bit ('result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:23->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118) on local variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 2, Depth = 4, loop 'VITIS_LOOP_23_1'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.04 seconds. CPU system time: 0 seconds. Elapsed time: 0.04 seconds; current allocated memory: 829.840 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.02 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.09 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.08 seconds; current allocated memory: 829.840 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.04 seconds. CPU system time: 0 seconds. Elapsed time: 0.05 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.06 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1_L2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1_L2' pipeline 'L1_L2' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mac_muladd_10ns_7ns_10ns_16_4_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1_L2'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L2_WeightHidden1_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L2_BiasesHidden1_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1.04 seconds. CPU system time: 0.01 seconds. Elapsed time: 1.06 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1' pipeline 'L1' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-104] Estimated max fanout for 'MLP_Pipeline_L1' is 28173 from HDL expression: (1'b0 == ap_block_pp0_stage0_11001)
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 65 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 64 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_0_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_1_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_2_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_3_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_4_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_5_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_6_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_7_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_8_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_9_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_10_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_11_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_12_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_13_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_14_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_15_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_16_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_17_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_18_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_19_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_20_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_21_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_22_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_23_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_24_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_25_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_26_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_27_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_28_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_29_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_30_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_31_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_32_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_33_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_34_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_35_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_36_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_37_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_38_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_39_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_40_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_41_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_42_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_43_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_44_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_45_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_46_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_47_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_48_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_49_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_50_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_51_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_52_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_53_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_54_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_55_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_56_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_57_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_58_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_59_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_60_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_61_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_62_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_63_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_BiasesHidden2_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 2.06 seconds. CPU system time: 0.07 seconds. Elapsed time: 2.14 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1_L21' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1_L21' pipeline 'L1_L2' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1_L21'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L21_WeightOut_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L21_BiasesOut_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.42 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.43 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_98_4' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_VITIS_LOOP_98_4' pipeline 'VITIS_LOOP_98_4' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_98_4'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.08 seconds. CPU system time: 0 seconds. Elapsed time: 0.08 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_23_1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_VITIS_LOOP_23_1' pipeline 'VITIS_LOOP_23_1' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'fcmp_32ns_32ns_1_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_23_1'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.05 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'MLP' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP'.
+INFO: [RTMG 210-278] Implementing memory 'MLP_image_pixels_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [RTMG 210-278] Implementing memory 'MLP_l_hidden2_outputs_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [RTMG 210-278] Implementing memory 'MLP_l_out_outputs_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.13 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.16 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 0.35 seconds. CPU system time: 0.05 seconds. Elapsed time: 0.39 seconds; current allocated memory: 829.840 MB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 0.83 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.86 seconds; current allocated memory: 829.840 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for MLP.
+INFO: [VLOG 209-307] Generating Verilog RTL for MLP.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 137.21 MHz
+INFO: [HLS 200-2161] Finished Command csynth_design Elapsed time: 00:00:48; Allocated memory: 524.605 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_cosim -tool=xsim
+INFO: [HLS 200-1464] Running solution command: config_export -flow=syn
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1464] Running solution command: config_export -vivado_clock=10
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_cosim -tool xsim 
+INFO: [HLS 200-1510] Running: config_export -flow syn -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl -rtl verilog -vivado_clock 10 
+INFO: [HLS 200-1510] Running: source ./mlp_accel/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name MLP MLP 
+WARNING: [HLS 200-484] The 'set_directive_top -name' command is deprecated and will be removed in a future release.
+WARNING: [HLS 200-484] The 'set_directive_top -location' command is deprecated and will be removed in a future release.
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [IMPL 213-8] Starting RTL evaluation using Vivado ...
+INFO: [HLS 200-802] Generated output file Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl/export.zip
+INFO: [HLS 200-2161] Finished Command export_design Elapsed time: 00:08:42; Allocated memory: 11.582 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2024.1 (64-bit)
+Tool Version Limit: 2024.05
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xczu3eg-sbva484-1-e'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_cosim -tool=xsim
+INFO: [HLS 200-1464] Running solution command: config_export -flow=syn
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1464] Running solution command: config_export -vivado_clock=10
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-e 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_cosim -tool xsim 
+INFO: [HLS 200-1510] Running: config_export -flow syn -format ip_catalog -output /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/vitis_hls_export_rtl -rtl verilog -vivado_clock 10 
+INFO: [HLS 200-1510] Running: source ./mlp_accel/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name MLP MLP 
+WARNING: [HLS 200-484] The 'set_directive_top -name' command is deprecated and will be removed in a future release.
+WARNING: [HLS 200-484] The 'set_directive_top -location' command is deprecated and will be removed in a future release.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0.07 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 305.234 MB.
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/bias.c' ... 
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/coef.c' ... 
+INFO: [HLS 200-10] Analyzing design file 'Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 3.34 seconds. CPU system time: 1.06 seconds. Elapsed time: 4.6 seconds; current allocated memory: 306.930 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 200-1995] There were 670 instructions in the design after the 'Compile/Link' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 279 instructions in the design after the 'Unroll/Inline (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 235 instructions in the design after the 'Unroll/Inline (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 200 instructions in the design after the 'Unroll/Inline (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Unroll/Inline (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 196 instructions in the design after the 'Array/Struct (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 240 instructions in the design after the 'Array/Struct (step 5)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 242 instructions in the design after the 'Performance (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 608 instructions in the design after the 'Performance (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 4,794 instructions in the design after the 'Performance (step 3)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 697 instructions in the design after the 'Performance (step 4)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 675 instructions in the design after the 'HW Transforms (step 1)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 200-1995] There were 705 instructions in the design after the 'HW Transforms (step 2)' phase of compilation. See the Design Size Report for more details: /home/pxdrom/mlp_accel/solution1/syn/report/csynth_design_size.rpt
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_87_3' is marked as complete unroll implied by the pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:87:21)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_87_3' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:87:21) in function 'MLP' completely with a factor of 1 (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_hidden1(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:32:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_hidden2(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:45:0)
+INFO: [HLS 214-178] Inlining function 'sigmoid_function(float)' into 'layer_output(float*, float*)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:58:0)
+INFO: [HLS 214-178] Inlining function 'layer_hidden1(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'layer_hidden2(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'layer_output(float*, float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-178] Inlining function 'get_most_probable(float*)' into 'MLP(hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&, hls::stream<hls::axis<ap_uint<32>, 4ul, 5ul, 5ul, (unsigned char)56, false>, 0>&)' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L2> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:36:6 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L1> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:46:5 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< L2> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:62:6 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< VITIS_LOOP_98_4> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:98:19 
+INFO: [HLS 214-376] automatically set the pipeline for Loop< VITIS_LOOP_23_1> at Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:23:19 
+INFO: [HLS 214-291] Loop 'L2' is marked as complete unroll implied by the pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:49:6)
+INFO: [HLS 214-186] Unrolling loop 'L2' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:49:6) in function 'MLP' completely with a factor of 64 (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:71:0)
+INFO: [HLS 214-270] Inferring pragma 'array_partition type=complete dim=2' for array 'WeightHidden2' due to pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/coef.c:12480:0)
+INFO: [HLS 214-270] Inferring pragma 'array_partition type=complete dim=1' for array 'l_hidden1_outputs' due to pipeline pragma (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:78:8)
+INFO: [HLS 214-248] Applying array_partition to 'WeightHidden2': Complete partitioning on dimension 2. (Desktop/SSEE_Final_Project/mlp_hw/src/coef.c:12480:0)
+INFO: [HLS 214-248] Applying array_partition to 'l_hidden1_outputs': Complete partitioning on dimension 1. (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:78:8)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 1.9 seconds. CPU system time: 0.39 seconds. Elapsed time: 6.87 seconds; current allocated memory: 317.473 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0 seconds; current allocated memory: 317.473 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0.11 seconds. CPU system time: 0 seconds. Elapsed time: 0.13 seconds; current allocated memory: 331.441 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0.06 seconds. CPU system time: 0 seconds. Elapsed time: 0.05 seconds; current allocated memory: 332.574 MB.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0.21 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.21 seconds; current allocated memory: 357.387 MB.
+INFO: [HLS 200-2061] Successfully converted nested loops 'VITIS_LOOP_82_1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:82:19) and 'VITIS_LOOP_83_2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:83:20) in function 'MLP' into perfectly nested loops.
+INFO: [HLS 200-2061] Successfully converted nested loops 'L1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33:5) and 'L2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:36:6) in function 'MLP' into perfectly nested loops.
+INFO: [HLS 200-2061] Successfully converted nested loops 'L1'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59:5) and 'L2'(Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:62:6) in function 'MLP' into perfectly nested loops.
+INFO: [XFORM 203-541] Flattening a loop nest 'VITIS_LOOP_82_1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:82:19) in function 'MLP'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33:5) in function 'MLP'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59:5) in function 'MLP'.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1.68 seconds. CPU system time: 0.05 seconds. Elapsed time: 1.74 seconds; current allocated memory: 510.980 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'MLP' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_82_1_VITIS_LOOP_83_2'.
+INFO: [HLS 200-1470] Pipelining result : Target II = 1, Final II = 1, Depth = 1, loop 'VITIS_LOOP_82_1_VITIS_LOOP_83_2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.67 seconds. CPU system time: 0.04 seconds. Elapsed time: 0.72 seconds; current allocated memory: 510.980 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.01 seconds; current allocated memory: 510.980 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1_L2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [HLS 200-486] Changing DSP latency (root=add_ln37) to 3 in order to utilize available DSP registers.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L2' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln34', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:37->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:33->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:34->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:93.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 58, loop 'L1_L2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 17.77 seconds. CPU system time: 0.26 seconds. Elapsed time: 18.04 seconds; current allocated memory: 829.773 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.4 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.41 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 369, loop 'L1'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.46 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.48 seconds; current allocated memory: 829.773 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.09 seconds. CPU system time: 0 seconds. Elapsed time: 0.09 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_L1_L21' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_L1_L21' (loop 'L1_L2'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation 0 bit ('aux_write_ln60', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) of variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:63->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95 and 'load' operation 32 bit ('aux_load', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:59->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95) on local variable 'aux', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:60->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:95.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 54, loop 'L1_L2'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.08 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.09 seconds; current allocated memory: 829.773 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.02 seconds. CPU system time: 0 seconds. Elapsed time: 0.01 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_98_4' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_98_4'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 2, loop 'VITIS_LOOP_98_4'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.02 seconds. CPU system time: 0 seconds. Elapsed time: 0.03 seconds; current allocated memory: 829.773 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.01 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP_Pipeline_VITIS_LOOP_23_1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'VITIS_LOOP_23_1'.
+WARNING: [HLS 200-880] The II Violation in module 'MLP_Pipeline_VITIS_LOOP_23_1' (loop 'VITIS_LOOP_23_1'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 0) between 'store' operation 0 bit ('result_write_ln21', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118) of variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:24->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118 on local variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118 and 'load' operation 32 bit ('result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:23->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118) on local variable 'result', Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:21->Desktop/SSEE_Final_Project/mlp_hw/src/top_function.cpp:118.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 2, Depth = 4, loop 'VITIS_LOOP_23_1'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.03 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.03 seconds; current allocated memory: 829.773 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'MLP' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0.07 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 829.773 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0.03 seconds. CPU system time: 0 seconds. Elapsed time: 0.03 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.04 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.04 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1_L2' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1_L2' pipeline 'L1_L2' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mac_muladd_10ns_7ns_10ns_16_4_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1_L2'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L2_WeightHidden1_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L2_BiasesHidden1_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.73 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.75 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1' pipeline 'L1' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-104] Estimated max fanout for 'MLP_Pipeline_L1' is 28173 from HDL expression: (1'b0 == ap_block_pp0_stage0_11001)
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 65 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 64 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_0_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_1_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_2_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_3_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_4_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_5_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_6_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_7_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_8_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_9_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_10_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_11_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_12_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_13_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_14_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_15_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_16_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_17_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_18_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_19_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_20_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_21_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_22_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_23_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_24_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_25_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_26_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_27_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_28_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_29_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_30_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_31_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_32_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_33_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_34_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_35_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_36_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_37_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_38_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_39_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_40_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_41_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_42_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_43_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_44_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_45_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_46_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_47_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_48_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_49_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_50_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_51_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_52_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_53_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_54_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_55_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_56_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_57_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_58_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_59_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_60_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_61_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_62_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_WeightHidden2_63_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_BiasesHidden2_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1.48 seconds. CPU system time: 0.04 seconds. Elapsed time: 1.54 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_L1_L21' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_L1_L21' pipeline 'L1_L2' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_L1_L21'.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L21_WeightOut_ROM_AUTO_1R' using auto ROMs.
+INFO: [RTMG 210-279] Implementing memory 'MLP_MLP_Pipeline_L1_L21_BiasesOut_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.3 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.31 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_98_4' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_VITIS_LOOP_98_4' pipeline 'VITIS_LOOP_98_4' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_98_4'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.04 seconds. CPU system time: 0 seconds. Elapsed time: 0.05 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP_Pipeline_VITIS_LOOP_23_1' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'MLP_Pipeline_VITIS_LOOP_23_1' pipeline 'VITIS_LOOP_23_1' pipeline type 'loop pipeline'
+INFO: [RTGEN 206-100] Generating core module 'fcmp_32ns_32ns_1_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP_Pipeline_VITIS_LOOP_23_1'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.03 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.04 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'MLP' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low.
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/INPUT_STREAM_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'MLP/OUTPUT_STREAM_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'MLP' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port control.
+INFO: [RTGEN 206-100] Generating core module 'dadd_64ns_64ns_64_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'ddiv_64ns_64ns_64_22_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fadd_32ns_32ns_32_5_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fexp_32ns_32ns_32_8_full_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fmul_32ns_32ns_32_4_max_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fpext_32ns_64_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'fptrunc_64ns_32_2_no_dsp_1': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'MLP'.
+INFO: [RTMG 210-278] Implementing memory 'MLP_image_pixels_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [RTMG 210-278] Implementing memory 'MLP_l_hidden2_outputs_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [RTMG 210-278] Implementing memory 'MLP_l_out_outputs_RAM_AUTO_1R1W' using auto RAMs.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0.09 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.12 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 0.26 seconds. CPU system time: 0.02 seconds. Elapsed time: 0.27 seconds; current allocated memory: 829.773 MB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 0.5 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.51 seconds; current allocated memory: 829.773 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for MLP.
+INFO: [VLOG 209-307] Generating Verilog RTL for MLP.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 137.21 MHz
+INFO: [HLS 200-2161] Finished Command csynth_design Elapsed time: 00:00:37; Allocated memory: 524.539 MB.

@@ -1,0 +1,160 @@
+
+
+================================================================
+== Vitis HLS Report for 'MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2'
+================================================================
+* Date:           Tue Jan 21 17:55:54 2025
+
+* Version:        2024.1 (Build 5069499 on May 21 2024)
+* Project:        mlp_accel
+* Solution:       solution1 (Vivado IP Flow Target)
+* Product family: zynquplus
+* Target device:  xczu3eg-sbva484-1-e
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing: 
+    * Summary: 
+    +--------+----------+----------+------------+
+    |  Clock |  Target  | Estimated| Uncertainty|
+    +--------+----------+----------+------------+
+    |ap_clk  |  10.00 ns|  4.323 ns|     2.70 ns|
+    +--------+----------+----------+------------+
+
++ Latency: 
+    * Summary: 
+    +---------+---------+----------+----------+-----+-----+-----------------------------------------------+
+    |  Latency (cycles) |  Latency (absolute) |  Interval |                    Pipeline                   |
+    |   min   |   max   |    min   |    max   | min | max |                      Type                     |
+    +---------+---------+----------+----------+-----+-----+-----------------------------------------------+
+    |      786|      786|  7.860 us|  7.860 us|  785|  785|  loop auto-rewind stp(delay=0 clock cycles(s))|
+    +---------+---------+----------+----------+-----+-----+-----------------------------------------------+
+
+    + Detail: 
+        * Instance: 
+        N/A
+
+        * Loop: 
+        +-----------------------------------+---------+---------+----------+-----------+-----------+------+----------+
+        |                                   |  Latency (cycles) | Iteration|  Initiation Interval  | Trip |          |
+        |             Loop Name             |   min   |   max   |  Latency |  achieved |   target  | Count| Pipelined|
+        +-----------------------------------+---------+---------+----------+-----------+-----------+------+----------+
+        |- VITIS_LOOP_82_1_VITIS_LOOP_83_2  |      784|      784|         1|          1|          1|   784|       yes|
+        +-----------------------------------+---------+---------+----------+-----------+-----------+------+----------+
+
+
+
+================================================================
+== Utilization Estimates
+================================================================
+* Summary: 
++-----------------+---------+-----+--------+-------+-----+
+|       Name      | BRAM_18K| DSP |   FF   |  LUT  | URAM|
++-----------------+---------+-----+--------+-------+-----+
+|DSP              |        -|    -|       -|      -|    -|
+|Expression       |        -|    -|       0|    118|    -|
+|FIFO             |        -|    -|       -|      -|    -|
+|Instance         |        -|    -|       -|      -|    -|
+|Memory           |        -|    -|       -|      -|    -|
+|Multiplexer      |        -|    -|       0|     72|    -|
+|Register         |        -|    -|      22|      -|    -|
++-----------------+---------+-----+--------+-------+-----+
+|Total            |        0|    0|      22|    190|    0|
++-----------------+---------+-----+--------+-------+-----+
+|Available        |      432|  360|  141120|  70560|    0|
++-----------------+---------+-----+--------+-------+-----+
+|Utilization (%)  |        0|    0|      ~0|     ~0|    0|
++-----------------+---------+-----+--------+-------+-----+
+
++ Detail: 
+    * Instance: 
+    N/A
+
+    * DSP: 
+    N/A
+
+    * Memory: 
+    N/A
+
+    * FIFO: 
+    N/A
+
+    * Expression: 
+    +----------------------------------+----------+----+---+----+------------+------------+
+    |           Variable Name          | Operation| DSP| FF| LUT| Bitwidth P0| Bitwidth P1|
+    +----------------------------------+----------+----+---+----+------------+------------+
+    |add_ln82_1_fu_133_p2              |         +|   0|  0|  17|          10|           1|
+    |add_ln82_fu_145_p2                |         +|   0|  0|  12|           5|           1|
+    |add_ln83_fu_223_p2                |         +|   0|  0|  12|           5|           1|
+    |add_ln89_fu_212_p2                |         +|   0|  0|  18|          10|          10|
+    |empty_fu_193_p2                   |         -|   0|  0|  18|          10|          10|
+    |icmp_ln82_fu_127_p2               |      icmp|   0|  0|  17|          10|           9|
+    |icmp_ln83_fu_151_p2               |      icmp|   0|  0|  12|           5|           4|
+    |ap_block_state1_pp0_stage0_iter0  |        or|   0|  0|   2|           1|           1|
+    |select_ln82_1_fu_165_p3           |    select|   0|  0|   5|           1|           5|
+    |select_ln82_fu_157_p3             |    select|   0|  0|   5|           1|           1|
+    +----------------------------------+----------+----+---+----+------------+------------+
+    |Total                             |          |   0|  0| 118|          58|          43|
+    +----------------------------------+----------+----+---+----+------------+------------+
+
+    * Multiplexer: 
+    +--------------------------------------+----+-----------+-----+-----------+
+    |                 Name                 | LUT| Input Size| Bits| Total Bits|
+    +--------------------------------------+----+-----------+-----+-----------+
+    |INPUT_STREAM_TDATA_blk_n              |   9|          2|    1|          2|
+    |ap_done_int                           |   9|          2|    1|          2|
+    |ap_sig_allocacmp_i_load               |   9|          2|    5|         10|
+    |ap_sig_allocacmp_indvar_flatten_load  |   9|          2|   10|         20|
+    |ap_sig_allocacmp_j_load               |   9|          2|    5|         10|
+    |i_fu_70                               |   9|          2|    5|         10|
+    |indvar_flatten_fu_74                  |   9|          2|   10|         20|
+    |j_fu_66                               |   9|          2|    5|         10|
+    +--------------------------------------+----+-----------+-----+-----------+
+    |Total                                 |  72|         16|   42|         84|
+    +--------------------------------------+----+-----------+-----+-----------+
+
+    * Register: 
+    +----------------------+----+----+-----+-----------+
+    |         Name         | FF | LUT| Bits| Const Bits|
+    +----------------------+----+----+-----+-----------+
+    |ap_CS_fsm             |   1|   0|    1|          0|
+    |ap_done_reg           |   1|   0|    1|          0|
+    |i_fu_70               |   5|   0|    5|          0|
+    |indvar_flatten_fu_74  |  10|   0|   10|          0|
+    |j_fu_66               |   5|   0|    5|          0|
+    +----------------------+----+----+-----+-----------+
+    |Total                 |  22|   0|   22|          0|
+    +----------------------+----+----+-----+-----------+
+
+
+
+================================================================
+== Interface
+================================================================
+* Summary: 
++-----------------------+-----+-----+------------+----------------------------------------------+--------------+
+|       RTL Ports       | Dir | Bits|  Protocol  |                 Source Object                |    C Type    |
++-----------------------+-----+-----+------------+----------------------------------------------+--------------+
+|ap_clk                 |   in|    1|  ap_ctrl_hs|  MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2|  return value|
+|ap_rst                 |   in|    1|  ap_ctrl_hs|  MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2|  return value|
+|ap_start               |   in|    1|  ap_ctrl_hs|  MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2|  return value|
+|ap_done                |  out|    1|  ap_ctrl_hs|  MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2|  return value|
+|ap_idle                |  out|    1|  ap_ctrl_hs|  MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2|  return value|
+|ap_ready               |  out|    1|  ap_ctrl_hs|  MLP_Pipeline_VITIS_LOOP_82_1_VITIS_LOOP_83_2|  return value|
+|INPUT_STREAM_TVALID    |   in|    1|        axis|                         INPUT_STREAM_V_data_V|       pointer|
+|INPUT_STREAM_TDATA     |   in|   32|        axis|                         INPUT_STREAM_V_data_V|       pointer|
+|INPUT_STREAM_TREADY    |  out|    1|        axis|                         INPUT_STREAM_V_dest_V|       pointer|
+|INPUT_STREAM_TDEST     |   in|    5|        axis|                         INPUT_STREAM_V_dest_V|       pointer|
+|INPUT_STREAM_TKEEP     |   in|    4|        axis|                         INPUT_STREAM_V_keep_V|       pointer|
+|INPUT_STREAM_TSTRB     |   in|    4|        axis|                         INPUT_STREAM_V_strb_V|       pointer|
+|INPUT_STREAM_TUSER     |   in|    4|        axis|                         INPUT_STREAM_V_user_V|       pointer|
+|INPUT_STREAM_TLAST     |   in|    1|        axis|                         INPUT_STREAM_V_last_V|       pointer|
+|INPUT_STREAM_TID       |   in|    5|        axis|                           INPUT_STREAM_V_id_V|       pointer|
+|image_pixels_address0  |  out|   10|   ap_memory|                                  image_pixels|         array|
+|image_pixels_ce0       |  out|    1|   ap_memory|                                  image_pixels|         array|
+|image_pixels_we0       |  out|    1|   ap_memory|                                  image_pixels|         array|
+|image_pixels_d0        |  out|   32|   ap_memory|                                  image_pixels|         array|
++-----------------------+-----+-----+------------+----------------------------------------------+--------------+
+

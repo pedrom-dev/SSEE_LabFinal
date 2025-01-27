@@ -1,0 +1,39 @@
+INFO: [HLS 200-10] For user 'pxdrom' on host 'pxdrom-VirtualBox' (Linux_x86_64 version 6.8.0-51-generic) on Mon Jan 20 18:52:57 CET 2025
+INFO: [HLS 200-10] On os Ubuntu 24.04.1 LTS
+INFO: [HLS 200-10] In directory '/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw'
+WARNING: [HLS 200-2053] The vitis_hls executable is deprecated. Consider using vitis-run --mode hls --tcl
+Sourcing Tcl script '/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/mlp_accelerator/mlp_accel_solution1/csim.tcl'
+INFO: [HLS 200-1510] Running: source /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/mlp_accelerator/mlp_accel_solution1/csim.tcl
+INFO: [HLS 200-1510] Running: open_project mlp_accelerator 
+INFO: [HLS 200-10] Opening project '/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/mlp_accelerator'.
+INFO: [HLS 200-1510] Running: set_top MLP 
+INFO: [HLS 200-1510] Running: add_files src/bias.c 
+INFO: [HLS 200-10] Adding design file 'src/bias.c' to the project
+INFO: [HLS 200-1510] Running: add_files src/coef.c 
+INFO: [HLS 200-10] Adding design file 'src/coef.c' to the project
+INFO: [HLS 200-1510] Running: add_files src/mlp.h 
+INFO: [HLS 200-10] Adding design file 'src/mlp.h' to the project
+INFO: [HLS 200-1510] Running: add_files src/top_function.cpp 
+INFO: [HLS 200-10] Adding design file 'src/top_function.cpp' to the project
+INFO: [HLS 200-1510] Running: add_files -tb test/mlp.h -cflags -Wno-unknown-pragmas 
+INFO: [HLS 200-10] Adding test bench file 'test/mlp.h' to the project
+INFO: [HLS 200-1510] Running: add_files -tb test/t10k-images-idx3-ubyte -cflags -Wno-unknown-pragmas 
+INFO: [HLS 200-10] Adding test bench file 'test/t10k-images-idx3-ubyte' to the project
+INFO: [HLS 200-1510] Running: add_files -tb test/t10k-labels-idx1-ubyte -cflags -Wno-unknown-pragmas 
+INFO: [HLS 200-10] Adding test bench file 'test/t10k-labels-idx1-ubyte' to the project
+INFO: [HLS 200-1510] Running: add_files -tb test/testbench_function.c -cflags -Wno-unknown-pragmas 
+INFO: [HLS 200-10] Adding test bench file 'test/testbench_function.c' to the project
+INFO: [HLS 200-1510] Running: open_solution mlp_accel_solution1 -flow_target vivado 
+INFO: [HLS 200-10] Opening solution '/home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/mlp_accelerator/mlp_accel_solution1'.
+command 'set_msg_logfile' returned error code
+    while executing
+"source /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/mlp_accelerator/mlp_accel_solution1/csim.tcl"
+    invoked from within
+"hls::main /home/pxdrom/Desktop/SSEE_Final_Project/mlp_hw/mlp_accelerator/mlp_accel_solution1/csim.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 hls::main {*}$newargs"
+    (procedure "hls_proc" line 16)
+    invoked from within
+"hls_proc [info nameofexecutable] $argv"
+INFO: [HLS 200-112] Total CPU user time: 2.52 seconds. Total CPU system time: 0.19 seconds. Total elapsed time: 2.45 seconds; peak allocated memory: 97.793 MB.
